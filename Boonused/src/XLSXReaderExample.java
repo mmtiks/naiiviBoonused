@@ -9,36 +9,20 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class XLSXReaderExample {
-    public static double calculateBonus(double kassa, SortedMap<Integer, Integer> paev) {
-        double bonus = 0;
-        for (Map.Entry mapElement : paev.entrySet()) {
-            int key = (int) mapElement.getKey();
-
-            // Finding the value
-            int value = (int) mapElement.getValue();
-            if (kassa < key) {
-                bonus = value;
-                break;
-            }
-        }
-        return bonus;
-    }
-
     public static void main(String[] args) {
-
         // ASJU MUUTA SIIN ALL //
         int year = 2022;
         int month = 5;
 
-        int startdate = 1;
-        int enddate = 31;
+        int startdate = 6;
+        int enddate = 10;
+        // ASJU MUUTA SIIN YLEVAL //
 
-
-        SortedMap<Integer, Integer> tuesday = new TreeMap<Integer, Integer>();
-        SortedMap<Integer, Integer> wednesday = new TreeMap<Integer, Integer>();
-        SortedMap<Integer, Integer> thursday = new TreeMap<Integer, Integer>();
-        SortedMap<Integer, Integer> friday = new TreeMap<Integer, Integer>();
-        SortedMap<Integer, Integer> saturday = new TreeMap<Integer, Integer>();
+        SortedMap<Integer, Integer> tuesday = new TreeMap<>();
+        SortedMap<Integer, Integer> wednesday = new TreeMap<>();
+        SortedMap<Integer, Integer> thursday = new TreeMap<>();
+        SortedMap<Integer, Integer> friday = new TreeMap<>();
+        SortedMap<Integer, Integer> saturday = new TreeMap<>();
 
         tuesday.put(1000, 0);
         tuesday.put(1200, 20);
@@ -108,45 +92,59 @@ public class XLSXReaderExample {
         saturday.put(8000, 420);
         saturday.put(8500, 465);
         saturday.put(9000, 510);
-        saturday.put(1000, 630);
-        saturday.put(10000, 800);
+        saturday.put(10000, 630);
+        saturday.put(100000, 800);
 
-        ArrayList<Worker> workers = new ArrayList<Worker>();
-        ArrayList<Day> days = new ArrayList<Day>();
+        ArrayList<Worker> workers = new ArrayList<>();
+        ArrayList<Day> days = new ArrayList<>();
+
 
         try {
-            File file = new File("C:\\Users\\mihke\\Documents\\tunnid.xlsx");   //creating a new file instance
+            File file = new File("C:\\Users\\Mihkel\\Documents\\GitHub\\naiiviBoonused\\tunnid.xlsx");   //creating a new file instance
             FileInputStream fis = new FileInputStream(file);   //obtaining bytes from the file
             //creating Workbook instance that refers to .xlsx file
             XSSFWorkbook wb = new XSSFWorkbook(fis);
             XSSFSheet sheet = wb.getSheetAt(0);     //creating a Sheet object to retrieve object
+
             Iterator<Row> itr = sheet.iterator();    //iterating over excel file
             Row row = itr.next();
             row = itr.next();
+
+
             Iterator<Cell> bonusReader = row.cellIterator();   //iterating over each column
             Cell cell = bonusReader.next();
             cell = bonusReader.next();
+
+            // skipping columns until startdate
             int k = 1;
+            while (k < startdate) {
+                bonusReader.next();
+                k++;
+            }
+            // reading columns until enddate
             while (bonusReader.hasNext() && k <= enddate) {
-                String weekday = String.valueOf(LocalDate.of(year,month,k).getDayOfWeek());
+                // creating day objects and calculating their bonuses based on the day of the week and cash
+                String weekday = String.valueOf(LocalDate.of(year, month, k).getDayOfWeek());
 
                 cell = bonusReader.next();
                 double kassa = cell.getNumericCellValue();
                 double bonus = Objects.equals(weekday, "TUESDAY") ? calculateBonus(kassa, tuesday) :
-                               Objects.equals(weekday, "WEDNESDAY") ? calculateBonus(kassa, wednesday) :
-                               Objects.equals(weekday, "THURSDAY") ? calculateBonus(kassa, thursday) :
-                               Objects.equals(weekday, "FRIDAY") ? calculateBonus(kassa, friday) :
-                               Objects.equals(weekday, "SATURDAY") ? calculateBonus(kassa, saturday) : 0;
+                        Objects.equals(weekday, "WEDNESDAY") ? calculateBonus(kassa, wednesday) :
+                                Objects.equals(weekday, "THURSDAY") ? calculateBonus(kassa, thursday) :
+                                        Objects.equals(weekday, "FRIDAY") ? calculateBonus(kassa, friday) :
+                                                Objects.equals(weekday, "SATURDAY") ? calculateBonus(kassa, saturday) : 0;
                 days.add(new Day(k, kassa, bonus));
                 k++;
             }
 
+            // going through the rest of the table and gathering worker data
             int i = 0;
             while (itr.hasNext()) {
                 row = itr.next();
                 Iterator<Cell> nameReader = row.cellIterator();   //iterating over each column
                 Cell name = nameReader.next();
 
+                // reading worker name and registering them
                 workers.add(new Worker(name.getStringCellValue()));
 
                 row = itr.next();
@@ -156,13 +154,20 @@ public class XLSXReaderExample {
                 cell = cellIterator.next();
                 cell = cellIterator.next();
 
+
+                while (j < startdate) {
+                    cell = cellIterator.next();
+                    j++;
+                }
+
+                // if the person worked that day, adding the day into their data and the worker and their hours into the days' data
                 while (cellIterator.hasNext() && j < enddate) {
                     cell = cellIterator.next();
                     double hours = cell.getNumericCellValue();
                     if (hours != 0.0) {
                         workers.get(i).addDay(j, hours);
-                        days.get(j - 1).addWorker(workers.get(i),hours);
-                        days.get(j - 1).addTotalHours(hours);
+                        days.get(j - startdate).addWorker(workers.get(i), hours);
+                        days.get(j - startdate).addTotalHours(hours);
                     }
                     j++;
                 }
@@ -172,14 +177,16 @@ public class XLSXReaderExample {
             e.printStackTrace();
         }
 
+
+        // going through days and their workers, adding bonus to worker objects.
         for (Day day : days) {
             System.out.println(day.getDay());
-            System.out.println(day.getKassa());
+            System.out.println(day.getCash());
             System.out.println(day.getBonus());
             System.out.println(day.getTotalHours());
             System.out.println();
             HashMap<Worker, Double> map = day.getWorkerHours();
-            double bonusFraction  = day.getBonus() / day.getTotalHours();
+            double bonusFraction = day.getBonus() / day.getTotalHours();
             for (Worker w : map.keySet()) {
                 System.out.println(w.getNimi());
                 System.out.println(map.get(w));
@@ -195,5 +202,21 @@ public class XLSXReaderExample {
             System.out.println(worker.getBonus());
             System.out.println();
         }
+    }
+
+
+    public static double calculateBonus(double cash, SortedMap<Integer, Integer> day) {
+        double bonus = 0;
+        for (Map.Entry mapElement : day.entrySet()) {
+            int key = (int) mapElement.getKey();
+
+            // Finding the value
+            int value = (int) mapElement.getValue();
+            if (cash < key) {
+                bonus = value;
+                break;
+            }
+        }
+        return bonus;
     }
 }  
