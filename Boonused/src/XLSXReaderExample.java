@@ -100,7 +100,7 @@ public class XLSXReaderExample {
 
 
         try {
-            File file = new File("C:\\Users\\Mihkel\\Documents\\GitHub\\naiiviBoonused\\tunnid.xlsx");   //creating a new file instance
+            File file = new File("C:\\Users\\mihke\\Documents\\GitHub\\naiiviBoonused\\tunnid.xlsx");   //creating a new file instance
             FileInputStream fis = new FileInputStream(file);   //obtaining bytes from the file
             //creating Workbook instance that refers to .xlsx file
             XSSFWorkbook wb = new XSSFWorkbook(fis);
@@ -164,6 +164,7 @@ public class XLSXReaderExample {
                 while (cellIterator.hasNext() && j < enddate) {
                     cell = cellIterator.next();
                     double hours = cell.getNumericCellValue();
+                    System.out.println(hours);
                     if (hours != 0.0) {
                         workers.get(i).addDay(j, hours);
                         days.get(j - startdate).addWorker(workers.get(i), hours);

@@ -1,7 +1,11 @@
 <component name="libraryTable">
   <library name="commons-collections4-4.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/OneDrive/Töölaud/commons-collections4-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/spam/commons-collections4-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/spam/poi-3.17.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/spam/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/spam/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/spam/xmlbeans-2.6.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
