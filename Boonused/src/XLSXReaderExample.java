@@ -1,5 +1,7 @@
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.text.DecimalFormat;
 import java.time.LocalDate;
 import java.util.*;
@@ -13,10 +15,10 @@ public class XLSXReaderExample {
     public static void main(String[] args) {
         // ASJU MUUTA SIIN ALL //
         int year = 2022;
-        int month = 5;
+        int month = 3;
 
-        int startdate = 6;
-        int enddate = 10;
+        int startdate = 1;
+        int enddate = 28;
         // ASJU MUUTA SIIN YLEVAL //
 
         SortedMap<Integer, Integer> tuesday = new TreeMap<>();
@@ -101,11 +103,11 @@ public class XLSXReaderExample {
 
 
         try {
-            File file = new File("C:\\Users\\mihke\\Documents\\GitHub\\naiiviBoonused\\tunnid.xlsx");   //creating a new file instance
+            File file = new File("C:\\Users\\mihke\\Documents\\GitHub\\naiiviBoonused\\aprill.xlsx");   //creating a new file instance
             FileInputStream fis = new FileInputStream(file);   //obtaining bytes from the file
             //creating Workbook instance that refers to .xlsx file
             XSSFWorkbook wb = new XSSFWorkbook(fis);
-            XSSFSheet sheet = wb.getSheetAt(0);     //creating a Sheet object to retrieve object
+            XSSFSheet sheet = wb.getSheetAt(1);     //creating a Sheet object to retrieve object
 
             Iterator<Row> itr = sheet.iterator();    //iterating over excel file
             Row row = itr.next();
@@ -128,6 +130,7 @@ public class XLSXReaderExample {
                 String weekday = String.valueOf(LocalDate.of(year, month, k).getDayOfWeek());
 
                 cell = bonusReader.next();
+//                System.out.println(cell);
                 double kassa = cell.getNumericCellValue();
                 double bonus = Objects.equals(weekday, "TUESDAY") ? calculateBonus(kassa, tuesday) :
                         Objects.equals(weekday, "WEDNESDAY") ? calculateBonus(kassa, wednesday) :
@@ -162,7 +165,7 @@ public class XLSXReaderExample {
                 }
 
                 // if the person worked that day, adding the day into their data and the worker and their hours into the days' data
-                while (cellIterator.hasNext() && j < enddate) {
+                while (cellIterator.hasNext() && j <= enddate) {
                     cell = cellIterator.next();
                     double hours = cell.getNumericCellValue();
                     if (hours != 0.0) {
@@ -180,30 +183,37 @@ public class XLSXReaderExample {
 
 
         // going through days and their workers, adding bonus to worker objects.
-        for (Day day : days) {
-            System.out.println("PÄEV: " + day.getDay());
-            System.out.println("KASSA " + day.getCash());
-            System.out.println("BONUS " + day.getBonus());
-            System.out.println("P2EVA TUNNID KOKKU " + day.getTotalHours());
-            System.out.println();
-            HashMap<Worker, Double> map = day.getWorkerHours();
-            double bonusFraction = day.getBonus() / day.getTotalHours();
-            for (Worker w : map.keySet()) {
-                System.out.println(w.getNimi());
-                System.out.println("TEHTUD TUNNID " + map.get(w));
-                System.out.println("OSA BOONUSEST " + bonusFraction * map.get(w));
-                System.out.println();
-                w.addBonus(bonusFraction * map.get(w));
-            }
-            System.out.println();
-            System.out.println();
-        }
-        System.out.println(LocalDate.of(year,month,1).getMonth());
         DecimalFormat f = new DecimalFormat("##.00");
-        for (Worker worker : workers) {
-            System.out.println(worker.getNimi());
-            System.out.println(f.format(worker.getBonus()));
-            System.out.println();
+        try {
+            FileWriter myWriter = new FileWriter("veebraur.txt");
+            for (Day day : days) {
+                double bonusFraction = day.getBonus() / day.getTotalHours();
+                myWriter.write("PÄEV: " + day.getDay() +  "\n");
+                myWriter.write("KASSA " + day.getCash()+  "\n");
+                myWriter.write("BONUS " + day.getBonus()+  "\n");
+                myWriter.write("IGA TUNNI KOHTA " + f.format(bonusFraction) + "€\n");
+                myWriter.write("P2EVA TUNNID KOKKU " + day.getTotalHours()+  "\n");
+                myWriter.write("-------------------------------------------------\n");
+                HashMap<Worker, Double> map = day.getWorkerHours();
+                for (Worker w : map.keySet()) {
+                    myWriter.write(w.getNimi()+  "\n");
+                    myWriter.write("TEHTUD TUNNID " + map.get(w)+  "\n");
+                    myWriter.write("OSA BOONUSEST " + f.format(bonusFraction * map.get(w))+  "€\n");
+                    myWriter.write("\n");
+                    w.addBonus(bonusFraction * map.get(w));
+                }
+                myWriter.write("\n\n");
+            }
+            myWriter.write(String.valueOf(LocalDate.of(year,month,1).getMonth()) + "\n\n\n");
+            for (Worker worker : workers) {
+                myWriter.write(worker.getNimi()+ ": ");
+                myWriter.write(f.format(worker.getBonus()) +  "€\n\n");
+            }
+            myWriter.close();
+
+        }   catch (IOException e) {
+            System.out.println("An error occurred.");
+            e.printStackTrace();
         }
     }
 

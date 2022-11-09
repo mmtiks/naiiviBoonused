@@ -1,0 +1,465 @@
+PÄEV: 1
+KASSA 834.8
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 2
+KASSA 257.46
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 3
+KASSA 794.52
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 4
+KASSA 424.8
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 5
+KASSA 255.8
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 6
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 7
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 8
+KASSA 797.68
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 9
+KASSA 278.05
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 10
+KASSA 953.63
+BONUS 16.0
+IGA TUNNI KOHTA ∞€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 11
+KASSA 766.79
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 12
+KASSA 448.71
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 13
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 14
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 15
+KASSA 1440.24
+BONUS 35.0
+IGA TUNNI KOHTA 1.63€
+P2EVA TUNNID KOKKU 21.5
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 7.75
+OSA BOONUSEST 12.62€
+
+Kendra Tamtik
+TEHTUD TUNNID 6.0
+OSA BOONUSEST 9.77€
+
+Joan Jürgens
+TEHTUD TUNNID 7.75
+OSA BOONUSEST 12.62€
+
+
+
+PÄEV: 16
+KASSA 321.4
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 17
+KASSA 957.46
+BONUS 16.0
+IGA TUNNI KOHTA 1.78€
+P2EVA TUNNID KOKKU 9.0
+-------------------------------------------------
+Kirke Piir
+TEHTUD TUNNID 9.0
+OSA BOONUSEST 16.00€
+
+
+
+PÄEV: 18
+KASSA 5821.03
+BONUS 225.0
+IGA TUNNI KOHTA 3.38€
+P2EVA TUNNID KOKKU 66.5
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 9.25
+OSA BOONUSEST 31.30€
+
+Erik Leedjärv
+TEHTUD TUNNID 7.0
+OSA BOONUSEST 23.68€
+
+Johannes Kaldalu
+TEHTUD TUNNID 3.0
+OSA BOONUSEST 10.15€
+
+Madis Kasterpalu
+TEHTUD TUNNID 6.75
+OSA BOONUSEST 22.84€
+
+Paula 
+TEHTUD TUNNID 12.0
+OSA BOONUSEST 40.60€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 7.5
+OSA BOONUSEST 25.38€
+
+Kendra Tamtik
+TEHTUD TUNNID 6.5
+OSA BOONUSEST 21.99€
+
+Joan Jürgens
+TEHTUD TUNNID 10.75
+OSA BOONUSEST 36.37€
+
+Maaja
+TEHTUD TUNNID 3.75
+OSA BOONUSEST 12.69€
+
+
+
+PÄEV: 19
+KASSA 3980.72
+BONUS 70.0
+IGA TUNNI KOHTA 1.26€
+P2EVA TUNNID KOKKU 55.75
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 9.75
+OSA BOONUSEST 12.24€
+
+Madis Kasterpalu
+TEHTUD TUNNID 8.0
+OSA BOONUSEST 10.04€
+
+Kirke Piir
+TEHTUD TUNNID 10.0
+OSA BOONUSEST 12.56€
+
+Paula 
+TEHTUD TUNNID 7.0
+OSA BOONUSEST 8.79€
+
+Kendra Tamtik
+TEHTUD TUNNID 8.0
+OSA BOONUSEST 10.04€
+
+Joan Jürgens
+TEHTUD TUNNID 8.0
+OSA BOONUSEST 10.04€
+
+Maaja
+TEHTUD TUNNID 5.0
+OSA BOONUSEST 6.28€
+
+
+
+PÄEV: 20
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 21
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 22
+KASSA 1322.1
+BONUS 35.0
+IGA TUNNI KOHTA 1.43€
+P2EVA TUNNID KOKKU 24.5
+-------------------------------------------------
+Erik Leedjärv
+TEHTUD TUNNID 8.5
+OSA BOONUSEST 12.14€
+
+Leo Artur Skott
+TEHTUD TUNNID 5.0
+OSA BOONUSEST 7.14€
+
+Madis Kasterpalu
+TEHTUD TUNNID 5.0
+OSA BOONUSEST 7.14€
+
+Joan Jürgens
+TEHTUD TUNNID 6.0
+OSA BOONUSEST 8.57€
+
+
+
+PÄEV: 23
+KASSA 412.97
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 24
+KASSA 1093.51
+BONUS 25.0
+IGA TUNNI KOHTA 2.63€
+P2EVA TUNNID KOKKU 9.5
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 9.5
+OSA BOONUSEST 25.00€
+
+
+
+PÄEV: 25
+KASSA 6807.05
+BONUS 340.0
+IGA TUNNI KOHTA 4.79€
+P2EVA TUNNID KOKKU 71.0
+-------------------------------------------------
+Brigitta
+TEHTUD TUNNID 10.75
+OSA BOONUSEST 51.48€
+
+Magnus Amer
+TEHTUD TUNNID 1.0
+OSA BOONUSEST 4.79€
+
+Leo Artur Skott
+TEHTUD TUNNID 11.5
+OSA BOONUSEST 55.07€
+
+Evelin Teder
+TEHTUD TUNNID 5.25
+OSA BOONUSEST 25.14€
+
+Paula 
+TEHTUD TUNNID 2.0
+OSA BOONUSEST 9.58€
+
+Kendra Tamtik
+TEHTUD TUNNID 11.75
+OSA BOONUSEST 56.27€
+
+Maaja
+TEHTUD TUNNID 4.75
+OSA BOONUSEST 22.75€
+
+Sille Riin Rand
+TEHTUD TUNNID 10.25
+OSA BOONUSEST 49.08€
+
+Rudolf Raidma
+TEHTUD TUNNID 8.75
+OSA BOONUSEST 41.90€
+
+Mihkel Tiks
+TEHTUD TUNNID 5.0
+OSA BOONUSEST 23.94€
+
+
+
+PÄEV: 26
+KASSA 3654.9
+BONUS 70.0
+IGA TUNNI KOHTA 1.13€
+P2EVA TUNNID KOKKU 62.0
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 11.0
+OSA BOONUSEST 12.42€
+
+Evelin Teder
+TEHTUD TUNNID 10.0
+OSA BOONUSEST 11.29€
+
+Madis Kasterpalu
+TEHTUD TUNNID 9.0
+OSA BOONUSEST 10.16€
+
+Paula 
+TEHTUD TUNNID 3.0
+OSA BOONUSEST 3.39€
+
+Kendra Tamtik
+TEHTUD TUNNID 6.0
+OSA BOONUSEST 6.77€
+
+Joan Jürgens
+TEHTUD TUNNID 12.0
+OSA BOONUSEST 13.55€
+
+Sille Riin Rand
+TEHTUD TUNNID 1.5
+OSA BOONUSEST 1.69€
+
+Rudolf Raidma
+TEHTUD TUNNID 9.5
+OSA BOONUSEST 10.73€
+
+
+
+PÄEV: 27
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 28
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 29
+KASSA 921.55
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 30
+KASSA 341.55
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 31
+KASSA 774.2
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+MARCH
+
+
+Magnus Amer: 98.36€
+
+Paula : 62.36€
+
+Joan Jürgens: 81.15€
+
+Madis Kasterpalu: 50.19€
+
+Mirjam Kuuskme: 25.38€
+
+Erik Leedjärv: 35.83€
+
+Brigitta: 51.48€
+
+Maaja: 41.71€
+
+Rudolf Raidma: 52.63€
+
+Sille Riin Rand: 50.78€
+
+Villem Sepping: .00€
+
+Leo Artur Skott: 62.21€
+
+Kendra Tamtik: 104.85€
+
+Evelin Teder: 36.43€
+
+Mihkel Tiks: 23.94€
+
+Johanna Tuisk: .00€
+
+Kirke Piir: 28.56€
+
+Riinu: .00€
+
+Marie Lilleleht: .00€
+
+Johannes Kaldalu: 10.15€
+
+Martin Metsanurk: .00€
+

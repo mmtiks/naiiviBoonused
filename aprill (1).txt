@@ -1,0 +1,697 @@
+PÄEV: 1
+KASSA 5609.6
+BONUS 225.0
+IGA TUNNI KOHTA 4.07€
+P2EVA TUNNID KOKKU 55.25
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 9.0
+OSA BOONUSEST 36.65€
+
+Kendra Tamtik
+TEHTUD TUNNID 0.25
+OSA BOONUSEST 1.02€
+
+Madis Kasterpalu
+TEHTUD TUNNID 5.5
+OSA BOONUSEST 22.40€
+
+Mihkel Tiks
+TEHTUD TUNNID 6.0
+OSA BOONUSEST 24.43€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 8.5
+OSA BOONUSEST 34.62€
+
+Leo Artur Skott
+TEHTUD TUNNID 5.0
+OSA BOONUSEST 20.36€
+
+Joan Jürgens
+TEHTUD TUNNID 9.5
+OSA BOONUSEST 38.69€
+
+Sille Riin Rand
+TEHTUD TUNNID 1.25
+OSA BOONUSEST 5.09€
+
+Rudolf Raidma
+TEHTUD TUNNID 10.25
+OSA BOONUSEST 41.74€
+
+
+
+PÄEV: 2
+KASSA 3115.85
+BONUS 25.0
+IGA TUNNI KOHTA .46€
+P2EVA TUNNID KOKKU 54.0
+-------------------------------------------------
+Erik Leedjärv
+TEHTUD TUNNID 5.75
+OSA BOONUSEST 2.66€
+
+Kendra Tamtik
+TEHTUD TUNNID 0.25
+OSA BOONUSEST .12€
+
+Madis Kasterpalu
+TEHTUD TUNNID 10.0
+OSA BOONUSEST 4.63€
+
+Mihkel Tiks
+TEHTUD TUNNID 4.0
+OSA BOONUSEST 1.85€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 1.0
+OSA BOONUSEST .46€
+
+Leo Artur Skott
+TEHTUD TUNNID 8.5
+OSA BOONUSEST 3.94€
+
+Joan Jürgens
+TEHTUD TUNNID 6.5
+OSA BOONUSEST 3.01€
+
+Rudolf Raidma
+TEHTUD TUNNID 7.5
+OSA BOONUSEST 3.47€
+
+Evelin Teder
+TEHTUD TUNNID 10.5
+OSA BOONUSEST 4.86€
+
+
+
+PÄEV: 3
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 4
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 5
+KASSA 1388.05
+BONUS 35.0
+IGA TUNNI KOHTA 1.57€
+P2EVA TUNNID KOKKU 22.25
+-------------------------------------------------
+Erik Leedjärv
+TEHTUD TUNNID 7.5
+OSA BOONUSEST 11.80€
+
+Kendra Tamtik
+TEHTUD TUNNID 0.25
+OSA BOONUSEST .39€
+
+Johanna Tuisk
+TEHTUD TUNNID 3.5
+OSA BOONUSEST 5.51€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 5.5
+OSA BOONUSEST 8.65€
+
+Evelin Teder
+TEHTUD TUNNID 5.5
+OSA BOONUSEST 8.65€
+
+
+
+PÄEV: 6
+KASSA 371.55
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 7
+KASSA 1092.15
+BONUS 25.0
+IGA TUNNI KOHTA 1.16€
+P2EVA TUNNID KOKKU 21.5
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 9.25
+OSA BOONUSEST 10.76€
+
+Rudolf Raidma
+TEHTUD TUNNID 6.25
+OSA BOONUSEST 7.27€
+
+Evelin Teder
+TEHTUD TUNNID 6.0
+OSA BOONUSEST 6.98€
+
+
+
+PÄEV: 8
+KASSA 5581.8
+BONUS 225.0
+IGA TUNNI KOHTA 3.78€
+P2EVA TUNNID KOKKU 59.5
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 9.5
+OSA BOONUSEST 35.92€
+
+Erik Leedjärv
+TEHTUD TUNNID 0.5
+OSA BOONUSEST 1.89€
+
+Kendra Tamtik
+TEHTUD TUNNID 10.5
+OSA BOONUSEST 39.71€
+
+Madis Kasterpalu
+TEHTUD TUNNID 7.5
+OSA BOONUSEST 28.36€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 10.5
+OSA BOONUSEST 39.71€
+
+Joan Jürgens
+TEHTUD TUNNID 6.5
+OSA BOONUSEST 24.58€
+
+Sille Riin Rand
+TEHTUD TUNNID 9.0
+OSA BOONUSEST 34.03€
+
+Rudolf Raidma
+TEHTUD TUNNID 5.5
+OSA BOONUSEST 20.80€
+
+
+
+PÄEV: 9
+KASSA 4416.6
+BONUS 120.0
+IGA TUNNI KOHTA 2.24€
+P2EVA TUNNID KOKKU 53.5
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 8.75
+OSA BOONUSEST 19.63€
+
+Erik Leedjärv
+TEHTUD TUNNID 9.5
+OSA BOONUSEST 21.31€
+
+Kendra Tamtik
+TEHTUD TUNNID 8.75
+OSA BOONUSEST 19.63€
+
+Madis Kasterpalu
+TEHTUD TUNNID 4.75
+OSA BOONUSEST 10.65€
+
+Joan Jürgens
+TEHTUD TUNNID 5.5
+OSA BOONUSEST 12.34€
+
+Sille Riin Rand
+TEHTUD TUNNID 9.0
+OSA BOONUSEST 20.19€
+
+Rudolf Raidma
+TEHTUD TUNNID 7.25
+OSA BOONUSEST 16.26€
+
+
+
+PÄEV: 10
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 11
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 12
+KASSA 1313.55
+BONUS 35.0
+IGA TUNNI KOHTA 1.92€
+P2EVA TUNNID KOKKU 18.25
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 5.75
+OSA BOONUSEST 11.03€
+
+Erik Leedjärv
+TEHTUD TUNNID 5.75
+OSA BOONUSEST 11.03€
+
+Sille Riin Rand
+TEHTUD TUNNID 6.75
+OSA BOONUSEST 12.95€
+
+
+
+PÄEV: 13
+KASSA 497.2
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 14
+KASSA 2343.8
+BONUS 80.0
+IGA TUNNI KOHTA 3.23€
+P2EVA TUNNID KOKKU 24.75
+-------------------------------------------------
+Erik Leedjärv
+TEHTUD TUNNID 0.75
+OSA BOONUSEST 2.42€
+
+Kendra Tamtik
+TEHTUD TUNNID 8.0
+OSA BOONUSEST 25.86€
+
+Leo Artur Skott
+TEHTUD TUNNID 10.0
+OSA BOONUSEST 32.32€
+
+Sille Riin Rand
+TEHTUD TUNNID 6.0
+OSA BOONUSEST 19.39€
+
+
+
+PÄEV: 15
+KASSA 3273.41
+BONUS 30.0
+IGA TUNNI KOHTA .62€
+P2EVA TUNNID KOKKU 48.75
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 10.0
+OSA BOONUSEST 6.15€
+
+Kendra Tamtik
+TEHTUD TUNNID 1.0
+OSA BOONUSEST .62€
+
+Johanna Tuisk
+TEHTUD TUNNID 7.0
+OSA BOONUSEST 4.31€
+
+Madis Kasterpalu
+TEHTUD TUNNID 7.75
+OSA BOONUSEST 4.77€
+
+Paula 
+TEHTUD TUNNID 9.0
+OSA BOONUSEST 5.54€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 5.75
+OSA BOONUSEST 3.54€
+
+Rudolf Raidma
+TEHTUD TUNNID 8.25
+OSA BOONUSEST 5.08€
+
+
+
+PÄEV: 16
+KASSA 4428.0
+BONUS 120.0
+IGA TUNNI KOHTA 2.17€
+P2EVA TUNNID KOKKU 55.25
+-------------------------------------------------
+Brigitta
+TEHTUD TUNNID 7.0
+OSA BOONUSEST 15.20€
+
+Magnus Amer
+TEHTUD TUNNID 9.0
+OSA BOONUSEST 19.55€
+
+Erik Leedjärv
+TEHTUD TUNNID 7.25
+OSA BOONUSEST 15.75€
+
+Kendra Tamtik
+TEHTUD TUNNID 9.75
+OSA BOONUSEST 21.18€
+
+Madis Kasterpalu
+TEHTUD TUNNID 4.0
+OSA BOONUSEST 8.69€
+
+Paula 
+TEHTUD TUNNID 2.0
+OSA BOONUSEST 4.34€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 8.5
+OSA BOONUSEST 18.46€
+
+Joan Jürgens
+TEHTUD TUNNID 5.0
+OSA BOONUSEST 10.86€
+
+Rudolf Raidma
+TEHTUD TUNNID 2.75
+OSA BOONUSEST 5.97€
+
+
+
+PÄEV: 17
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 18
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 19
+KASSA 996.7
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 20
+KASSA 234.3
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 21
+KASSA 1061.6
+BONUS 25.0
+IGA TUNNI KOHTA 1.20€
+P2EVA TUNNID KOKKU 20.75
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 8.25
+OSA BOONUSEST 9.94€
+
+Kendra Tamtik
+TEHTUD TUNNID 3.0
+OSA BOONUSEST 3.61€
+
+Joan Jürgens
+TEHTUD TUNNID 0.25
+OSA BOONUSEST .30€
+
+Rudolf Raidma
+TEHTUD TUNNID 2.75
+OSA BOONUSEST 3.31€
+
+Evelin Teder
+TEHTUD TUNNID 6.5
+OSA BOONUSEST 7.83€
+
+
+
+PÄEV: 22
+KASSA 5325.85
+BONUS 225.0
+IGA TUNNI KOHTA 3.80€
+P2EVA TUNNID KOKKU 59.25
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 10.5
+OSA BOONUSEST 39.87€
+
+Villem Sepping
+TEHTUD TUNNID 5.0
+OSA BOONUSEST 18.99€
+
+Kendra Tamtik
+TEHTUD TUNNID 9.75
+OSA BOONUSEST 37.03€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 9.5
+OSA BOONUSEST 36.08€
+
+Leo Artur Skott
+TEHTUD TUNNID 5.5
+OSA BOONUSEST 20.89€
+
+Maaja
+TEHTUD TUNNID 4.0
+OSA BOONUSEST 15.19€
+
+Evelin Teder
+TEHTUD TUNNID 7.5
+OSA BOONUSEST 28.48€
+
+Riinu
+TEHTUD TUNNID 7.5
+OSA BOONUSEST 28.48€
+
+
+
+PÄEV: 23
+KASSA 6880.13
+BONUS 340.0
+IGA TUNNI KOHTA 4.76€
+P2EVA TUNNID KOKKU 71.5
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 1.5
+OSA BOONUSEST 7.13€
+
+Erik Leedjärv
+TEHTUD TUNNID 10.0
+OSA BOONUSEST 47.55€
+
+Villem Sepping
+TEHTUD TUNNID 9.75
+OSA BOONUSEST 46.36€
+
+Kendra Tamtik
+TEHTUD TUNNID 4.75
+OSA BOONUSEST 22.59€
+
+Johanna Tuisk
+TEHTUD TUNNID 7.0
+OSA BOONUSEST 33.29€
+
+Paula 
+TEHTUD TUNNID 10.0
+OSA BOONUSEST 47.55€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 9.0
+OSA BOONUSEST 42.80€
+
+Leo Artur Skott
+TEHTUD TUNNID 9.5
+OSA BOONUSEST 45.17€
+
+Evelin Teder
+TEHTUD TUNNID 10.0
+OSA BOONUSEST 47.55€
+
+
+
+PÄEV: 24
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 25
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 26
+KASSA 699.35
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 27
+KASSA 227.9
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 28
+KASSA 808.25
+BONUS 16.0
+IGA TUNNI KOHTA .96€
+P2EVA TUNNID KOKKU 16.75
+-------------------------------------------------
+Madis Kasterpalu
+TEHTUD TUNNID 8.5
+OSA BOONUSEST 8.12€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 8.0
+OSA BOONUSEST 7.64€
+
+Joan Jürgens
+TEHTUD TUNNID 0.25
+OSA BOONUSEST .24€
+
+
+
+PÄEV: 29
+KASSA 3560.51
+BONUS 70.0
+IGA TUNNI KOHTA 1.40€
+P2EVA TUNNID KOKKU 50.0
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 5.25
+OSA BOONUSEST 7.35€
+
+Kendra Tamtik
+TEHTUD TUNNID 1.0
+OSA BOONUSEST 1.40€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 10.5
+OSA BOONUSEST 14.70€
+
+Leo Artur Skott
+TEHTUD TUNNID 10.5
+OSA BOONUSEST 14.70€
+
+Helen Marie
+TEHTUD TUNNID 5.0
+OSA BOONUSEST 7.00€
+
+Joan Jürgens
+TEHTUD TUNNID 8.5
+OSA BOONUSEST 11.90€
+
+Evelin Teder
+TEHTUD TUNNID 9.25
+OSA BOONUSEST 12.95€
+
+
+
+PÄEV: 30
+KASSA 7183.4
+BONUS 380.0
+IGA TUNNI KOHTA 5.47€
+P2EVA TUNNID KOKKU 69.5
+-------------------------------------------------
+Magnus Amer
+TEHTUD TUNNID 10.5
+OSA BOONUSEST 57.41€
+
+Kendra Tamtik
+TEHTUD TUNNID 12.5
+OSA BOONUSEST 68.35€
+
+Madis Kasterpalu
+TEHTUD TUNNID 12.0
+OSA BOONUSEST 65.61€
+
+Mirjam Kuuskme
+TEHTUD TUNNID 6.0
+OSA BOONUSEST 32.81€
+
+Leo Artur Skott
+TEHTUD TUNNID 8.5
+OSA BOONUSEST 46.47€
+
+Joan Jürgens
+TEHTUD TUNNID 11.0
+OSA BOONUSEST 60.14€
+
+Evelin Teder
+TEHTUD TUNNID 9.0
+OSA BOONUSEST 49.21€
+
+
+
+APRIL
+
+
+Magnus Amer: 261.39€
+
+Paula : 57.43€
+
+Joan Jürgens: 162.06€
+
+Madis Kasterpalu: 153.23€
+
+Mirjam Kuuskme: 239.46€
+
+Erik Leedjärv: 114.41€
+
+Brigitta: 15.20€
+
+Maaja: 15.19€
+
+Rudolf Raidma: 103.90€
+
+Sille Riin Rand: 91.65€
+
+Villem Sepping: 65.35€
+
+Leo Artur Skott: 183.86€
+
+Kendra Tamtik: 241.48€
+
+Evelin Teder: 166.51€
+
+Mihkel Tiks: 26.29€
+
+Johanna Tuisk: 43.10€
+
+: .00€
+
+Riinu: 28.48€
+
+Marie Lilleleht: .00€
+
+Helen Marie: 7.00€
+
+: .00€
+
