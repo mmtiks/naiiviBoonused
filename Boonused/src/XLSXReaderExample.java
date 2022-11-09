@@ -1,5 +1,6 @@
 import java.io.File;
 import java.io.FileInputStream;
+import java.text.DecimalFormat;
 import java.time.LocalDate;
 import java.util.*;
 
@@ -164,7 +165,6 @@ public class XLSXReaderExample {
                 while (cellIterator.hasNext() && j < enddate) {
                     cell = cellIterator.next();
                     double hours = cell.getNumericCellValue();
-                    System.out.println(hours);
                     if (hours != 0.0) {
                         workers.get(i).addDay(j, hours);
                         days.get(j - startdate).addWorker(workers.get(i), hours);
@@ -181,26 +181,28 @@ public class XLSXReaderExample {
 
         // going through days and their workers, adding bonus to worker objects.
         for (Day day : days) {
-            System.out.println(day.getDay());
-            System.out.println(day.getCash());
-            System.out.println(day.getBonus());
-            System.out.println(day.getTotalHours());
+            System.out.println("PÄEV: " + day.getDay());
+            System.out.println("KASSA " + day.getCash());
+            System.out.println("BONUS " + day.getBonus());
+            System.out.println("P2EVA TUNNID KOKKU " + day.getTotalHours());
             System.out.println();
             HashMap<Worker, Double> map = day.getWorkerHours();
             double bonusFraction = day.getBonus() / day.getTotalHours();
             for (Worker w : map.keySet()) {
                 System.out.println(w.getNimi());
-                System.out.println(map.get(w));
-                System.out.println(bonusFraction * map.get(w));
+                System.out.println("TEHTUD TUNNID " + map.get(w));
+                System.out.println("OSA BOONUSEST " + bonusFraction * map.get(w));
+                System.out.println();
                 w.addBonus(bonusFraction * map.get(w));
             }
             System.out.println();
             System.out.println();
         }
-
+        System.out.println(LocalDate.of(year,month,1).getMonth());
+        DecimalFormat f = new DecimalFormat("##.00");
         for (Worker worker : workers) {
             System.out.println(worker.getNimi());
-            System.out.println(worker.getBonus());
+            System.out.println(f.format(worker.getBonus()));
             System.out.println();
         }
     }
