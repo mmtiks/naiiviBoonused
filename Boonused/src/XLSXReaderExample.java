@@ -15,7 +15,7 @@ public class XLSXReaderExample {
     public static void main(String[] args) {
         // ASJU MUUTA SIIN ALL //
         int year = 2022;
-        int month = 1;
+        int month = 3;
 
         int startdate = 1;
         int enddate = 31;
@@ -103,7 +103,7 @@ public class XLSXReaderExample {
 
 
         try {
-            File file = new File("C:\\Users\\mihke\\Documents\\GitHub\\naiiviBoonused\\aprill.xlsx");   //creating a new file instance
+            File file = new File("C:\\Users\\mihke\\Documents\\GitHub\\naiiviBoonused\\tunnidss.xlsx");   //creating a new file instance
             FileInputStream fis = new FileInputStream(file);   //obtaining bytes from the file
             //creating Workbook instance that refers to .xlsx file
             XSSFWorkbook wb = new XSSFWorkbook(fis);
@@ -185,7 +185,7 @@ public class XLSXReaderExample {
         // going through days and their workers, adding bonus to worker objects.
         DecimalFormat f = new DecimalFormat("##.00");
         try {
-            FileWriter myWriter = new FileWriter("jaanuar.txt");
+            FileWriter myWriter = new FileWriter("m2rts.txt");
             for (Day day : days) {
                 double bonusFraction = day.getBonus() / day.getTotalHours();
                 myWriter.write("PÄEV: " + day.getDay() +  "\n");
