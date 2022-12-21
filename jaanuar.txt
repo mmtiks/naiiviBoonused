@@ -1,0 +1,293 @@
+PÄEV: 1
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 2
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 3
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 4
+KASSA 504.27
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 5
+KASSA 59.3
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 6
+KASSA 599.59
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 7
+KASSA 62.9
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 8
+KASSA 147.2
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 9
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 10
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 11
+KASSA 745.3
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 12
+KASSA 1.75
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 13
+KASSA 755.15
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 14
+KASSA 337.1
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 15
+KASSA 300.5
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 16
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 17
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 18
+KASSA 497.65
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 19
+KASSA 188.15
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 20
+KASSA 523.43
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 21
+KASSA 754.53
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 22
+KASSA 424.68
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 23
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 24
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 25
+KASSA 639.93
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 26
+KASSA 146.2
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 27
+KASSA 527.4
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 28
+KASSA 525.35
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 29
+KASSA 709.85
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 30
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+PÄEV: 31
+KASSA 0.0
+BONUS 0.0
+IGA TUNNI KOHTA NaN€
+P2EVA TUNNID KOKKU 0.0
+-------------------------------------------------
+
+
+JANUARY
+
+
+Magnus Amer: .00€
+
+Paula : .00€
+
+Joan Jürgens: .00€
+
+Madis Kasterpalu: .00€
+
+Mirjam Kuuskme: .00€
+
+Erik Leedjärv: .00€
+
+Brigitta: .00€
+
+: .00€
+
+Rudolf Raidma: .00€
+
+Sille Riin Rand: .00€
+
+Villem Sepping: .00€
+
+Leo Artur Skott: .00€
+
+Kendra Tamtik: .00€
+
+Evelin Teder: .00€
+
+Mihkel Tiks: .00€
+
+Johanna Tuisk: .00€
+
+: .00€
+
+Riinu: .00€
+
+Marie Lilleleht: .00€
+
+: .00€
+
+: .00€
+

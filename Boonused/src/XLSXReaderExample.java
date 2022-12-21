@@ -15,10 +15,10 @@ public class XLSXReaderExample {
     public static void main(String[] args) {
         // ASJU MUUTA SIIN ALL //
         int year = 2022;
-        int month = 3;
+        int month = 1;
 
         int startdate = 1;
-        int enddate = 28;
+        int enddate = 31;
         // ASJU MUUTA SIIN YLEVAL //
 
         SortedMap<Integer, Integer> tuesday = new TreeMap<>();
@@ -107,7 +107,7 @@ public class XLSXReaderExample {
             FileInputStream fis = new FileInputStream(file);   //obtaining bytes from the file
             //creating Workbook instance that refers to .xlsx file
             XSSFWorkbook wb = new XSSFWorkbook(fis);
-            XSSFSheet sheet = wb.getSheetAt(1);     //creating a Sheet object to retrieve object
+            XSSFSheet sheet = wb.getSheetAt(0);     //creating a Sheet object to retrieve object
 
             Iterator<Row> itr = sheet.iterator();    //iterating over excel file
             Row row = itr.next();
@@ -185,7 +185,7 @@ public class XLSXReaderExample {
         // going through days and their workers, adding bonus to worker objects.
         DecimalFormat f = new DecimalFormat("##.00");
         try {
-            FileWriter myWriter = new FileWriter("veebraur.txt");
+            FileWriter myWriter = new FileWriter("jaanuar.txt");
             for (Day day : days) {
                 double bonusFraction = day.getBonus() / day.getTotalHours();
                 myWriter.write("PÄEV: " + day.getDay() +  "\n");
